@@ -8,7 +8,7 @@ This project aims to predict the popularity of songs based on various features s
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Data](#data)
+- [Data](#dataset)
 - [Features](#features)
 - [License](#license)
 
@@ -52,7 +52,7 @@ This project aims to predict the popularity of songs based on various features s
     python 3_Scaling.py
     ```
 
-## Data
+## Dataset
 
 I used the "🎹 Spotify Tracks Dataset" by *MaharshiPandya* on Kaggle ([Link](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)). However, you can use any suitable dataset containing song features and popularity ratings.
 
