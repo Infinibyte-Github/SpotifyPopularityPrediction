@@ -2,8 +2,8 @@
 Splitting of dataset for training purposes
 Author: Bart Schelpe
 Filename: 2_Splitting.py
-Dataset: Spotify 1.2M+ Songs
-Link: https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs
+Dataset: 🎹 Spotify Tracks Dataset
+Link: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 Code based on: Python4AI PowerPoint presentations and documentation of varying Python packages
 """
 
