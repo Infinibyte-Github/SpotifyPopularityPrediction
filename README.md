@@ -10,9 +10,6 @@ This project aims to predict the popularity of songs based on various features s
 - [Usage](#usage)
 - [Data](#data)
 - [Features](#features)
-- [Models](#models)
-- [Evaluation](#evaluation)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Installation
