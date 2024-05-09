@@ -37,7 +37,7 @@ This project aims to predict the popularity of songs based on various features s
 1. Preprocess the data:
 
     ```bash
-    python 1_Preprocessing.py
+    python 1_1_Preprocessing.py
     ```
 
 2. Split the data:
